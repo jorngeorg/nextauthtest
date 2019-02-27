@@ -1,0 +1,24 @@
+{
+  "name": "hig48test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "now-build": "next build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sanity/client": "0.140.8",
+    "@sanity/image-url": "0.140.8",
+    "basic-auth": "2.0.1",
+    "lodash": "4.17.11",
+    "next": "^8.0.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-pdf": "4.0.3",
+    "tsscmp": "1.0.6"
+  }
+}
